@@ -1,0 +1,141 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.image {
+    max-width: 100%;
+    height: 500px;
+    box-shadow: 20px -15px 37px 0px rgb(0, 0, 0);
+}
+
+.image1 {
+    max-width: 100%;
+    height: 500px;
+    box-shadow: 20px -15px 37px 0px rgb(0, 0, 0);
+}
+
+.change {
+    color: black;
+    border-radius: 30px;
+    box-shadow: 5px -5px 31px 0px white;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+}
+
+.fontlist {
+    font-size: 25px;
+}
+
+.buttonChangeBackgroundColor {
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    box-shadow: 5px -5px 31px 0px white;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+}
+
+.nowy {
+    height: 500px;
+}
+
+.changeColor {
+    background-color: black;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.table {
+    color: rgb(243, 229, 229);
+    border-collapse: collapse;
+    box-shadow: 5px -5px 31px 0px rgb(0, 0, 0);
+    width: 100%;
+    margin: 0 auto;
+}
+
+.tableCell {
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+}
+
+.tableHead {
+    background-color: rgba(160, 160, 3, 0.993);
+    font-weight: 700;
+    text-shadow: 1px 2px 5px black;
+}
+
+.tableRow:nth-child(even) {
+    background-color: rgb(93, 78, 122);
+}
+
+.touch {
+    color: rgb(243, 229, 229);
+}
+
+.touch:hover {
+    background-color: rgb(126, 131, 131);
+}
+
+.tableHead:hover {
+    background-color: rgb(19, 131, 28);
+}
+
+.caption {
+    color: rgb(217, 220, 223);
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+
+.pink {
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 3, 202);
+    padding: 20px;
+    border-radius: 150px;
+    margin: 50px auto;
+    background: rgb(59, 59, 88);
+    box-shadow: 5px -5px 31px 0px rgb(16, 0, 233);
+    line-height: 1.5;
+}
+
+.button {
+    color: black;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 5px -5px 31px 0px white;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+}
+
+.tableCell {
+    font-size: 12px;
+}
+
+.button1 {
+    color: black;
+}
+
+.button3 {
+    color: black;
+}
+
+.button4 {
+    color: black;
+    margin: 0px 20px;
+}
+
+.button5 {
+    color: black;
+}
+
+.link1 {
+    text-decoration: none;
+    color: black;
+}

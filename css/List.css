@@ -1,0 +1,18 @@
+.list {
+    list-style-type: none;
+    max-width: auto;
+    margin: 0 auto;
+}
+
+.list__row {
+    display: inline;
+    padding: 20px;
+}
+
+.list__link {
+    color: rgb(197, 197, 0);
+    text-decoration: none;
+}
+.list__link:hover {
+    color: rgb(255, 166, 0);
+}

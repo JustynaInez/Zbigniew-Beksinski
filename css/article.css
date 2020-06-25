@@ -1,0 +1,10 @@
+.article {
+    color: rgb(243, 229, 229);
+    border: 2px solid rgb(202, 202, 0);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 50px auto;
+    background: rgb(59, 59, 88);
+    box-shadow: 5px -5px 31px 0px #CEC400;
+    line-height: 1.5;
+}
