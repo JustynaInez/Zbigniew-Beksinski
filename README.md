@@ -1,4 +1,4 @@
-# Znigniew Beksiński
+# Zbigniew Beksiński
 
 ![Zbigniew](images/Zdzisław-Beksiński-portret-2.jpg) 
 
