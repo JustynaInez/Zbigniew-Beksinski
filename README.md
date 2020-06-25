@@ -1,4 +1,6 @@
 # Znigniew Beksiński
 
-##Demo
+![Zbigniew](images/Zdzisław-Beksiński-portret-2.jpg) 
+
+## Demo
 https://justynainez.github.io/homepage/
