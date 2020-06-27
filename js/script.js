@@ -24,12 +24,11 @@ default:
 
 
 const buttonChangeBackgroundColor= document.querySelector(".buttonChangeBackgroundColor");
-const container = document.querySelector(".container");
 const changeColor = document.querySelector (".changeColor");
 
 let changeBackgroundColor = () =>
  {
-     changeColor.classList.toggle("container"); 
+     changeColor.classList.toggle("changeColor"); 
 };
 
 buttonChangeBackgroundColor.addEventListener("click", changeBackgroundColor);
